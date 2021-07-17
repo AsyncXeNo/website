@@ -1,0 +1,7 @@
+.env
+venv/
+.vscode/
+testsite/
+xenos_website/testapp/
+/**/__pycache__/
+/**/db.sqlite3
